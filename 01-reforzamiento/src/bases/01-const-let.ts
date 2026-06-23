@@ -1,5 +1,5 @@
 
-const fisrtName = 'Andres'
+const fisrtName:string = 'Andres'
 const lastName = 'Valencia'
 
 const containsLetterH = lastName.includes('V')
